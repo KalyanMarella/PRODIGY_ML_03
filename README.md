@@ -12,9 +12,9 @@ The steps involved in this project include:
 - Model Evaluation: Assessing the model's performance on a test dataset.
 - Model Saving: Saving the trained model for future use.
 #### How It Helps
-##### Efficient Feature Extraction: HOG captures essential features such as edges and gradients, which are critical for distinguishing between cats and dogs.
-##### Effective Classification: SVC is well-suited for image classification tasks, providing high accuracy and robustness.
-##### Reusability: The saved model can be used for making predictions on new images without the need for retraining.
+- Efficient Feature Extraction: HOG captures essential features such as edges and gradients, which are critical for distinguishing between cats and dogs.
+- Effective Classification: SVC is well-suited for image classification tasks, providing high accuracy and robustness.
+- Reusability: The saved model can be used for making predictions on new images without the need for retraining.
 #### Technologies Used
 - Python 3.x
 - NumPy
